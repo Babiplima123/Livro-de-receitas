@@ -3,4 +3,4 @@
 Ola Bem vindo ao livro de receitas 
 
 - Strogonofe de frango
-- Pave. nucleo
+- Pate. nucleo
